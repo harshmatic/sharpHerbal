@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Sharp Herbal</h1></span>
         </header>
         <p className="App-intro">
-          Site Under Cunstruction
+          <h2>Site Under Cunstruction</h2>
         </p>
       </div>
     );
